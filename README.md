@@ -28,6 +28,7 @@ We collected 1601 obstacles from several thousands of scanning frames, containin
 ### **If you find our work useful in your research, please consider citing:**
   1. Y Tian, W Song, L Chen, et al., A Fast Spatial Clustering Method for Sparse LiDAR Point Clouds Using GPU Programming, Sensors 20 (8), 2309
   2. W Song, L Zhang, Y Tian, et al., CNN-based 3D object classification using Hough space of LiDAR point clouds, Human-centric Computing and Information Sciences 10 (1), 1-14  
+  3. Song, Wei, Dechao Li, Su Sun, Lingfeng Zhang, Yu Xin, Yunsick Sung, and Ryong Choi. 2022. "2D&3DHNet for 3D Object Classification in LiDAR Point Cloud" Remote Sensing 14, no. 13: 3146. https://doi.org/10.3390/rs14133146
 <br> 
 <br> 
 
